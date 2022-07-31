@@ -1,2 +1,2 @@
 # SaDsEc_001
-Problems and Solutions of the SaDsEc Challenge from each Member of the SaDsEc Team
+Solutions of the SaDsEc Challenges from each Member of the SaDsEc Team
